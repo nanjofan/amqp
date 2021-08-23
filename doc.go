@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 // Source code and contact info at http://github.com/streadway/amqp
+// HEllo
 
 /*
 Package amqp is an AMQP 0.9.1 client with RabbitMQ extensions
